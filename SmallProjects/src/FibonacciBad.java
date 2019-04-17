@@ -1,5 +1,6 @@
 
 public class FibonacciBad {
+	// I was too lazy/stupid too create a main class so I call this class from GuessingGame...
 	
 	// Recursive way to calculate Fibonacci numbers. It's bad. Integer overflow at 57th number.
 	public int fibo(int i) {

@@ -17,7 +17,7 @@ public class GuessingGame {
 		loops = 1;
 		totalGuesses = 0;
 		for(int i = 0; i < loops; i++) {
-			range = 200;
+			range = 100;
 			generateSecret(range);
 			startGuessing();
 		}
@@ -25,8 +25,9 @@ public class GuessingGame {
 		System.out.println("Average guess count: " + totalGuesses/loops);
 		System.out.println("Minimum amount of guesses: " + minGuess + ". Maximum amount of guesses: " + maxGuess + ".");
 		scn.close();
-		FibonacciBad fiBad = new FibonacciBad();
-		for (int i = 1; i < 30; i++) System.out.println(fiBad.fibo(i));
+		// Why did I put this here?
+		//FibonacciBad fiBad = new FibonacciBad();
+		//for (int i = 1; i < 30; i++) System.out.println(fiBad.fibo(i));
 		
 		
 	}
