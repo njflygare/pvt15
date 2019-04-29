@@ -53,9 +53,9 @@
 
 	<distributionManagement>
 		<repository>
-			<id>pvtxx.repo</id>
-			<name>PVTXX repo</name>
-			<url></url>
+			<id>pvt10.repo</id>
+			<name>PVT10 repo</name>
+			<url>https://github.com/njflygare/pvt15</url>
 		</repository>
 	</distributionManagement>
 
