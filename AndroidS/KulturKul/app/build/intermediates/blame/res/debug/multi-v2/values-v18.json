@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jake_2\\AndroidStudioProjects\\KulturKul\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jake_2\\.gradle\\caches\\transforms-2\\files-2.1\\9795f1406ddc72b33426a7335f846e60\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
